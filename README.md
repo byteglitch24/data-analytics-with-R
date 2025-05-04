@@ -1,37 +1,40 @@
-# data-analytics-with-R
-This repository documents my journey in learning data analytics using R. It includes practice scripts, data exploration, visualizations, and notes as I build my skills in data wrangling, statistical analysis, and data visualization using R and the tidyverse ecosystem.
-📊 Data Analytics with R
-Welcome to my data analytics learning repository! I'm currently studying data analytics using R, and this space will document my journey, progress, and practice work.
+# 📊 **Data Analytics with R**
 
-#🧠 What I'm Learning
-Data wrangling with dplyr and tidyr
+Welcome to my data analytics learning repository! I'm currently studying data analytics using **R**, and this space will document my journey, progress, and practice work.
 
-Data visualization with ggplot2
+## 🧠 **What I'm Learning**
 
-Statistical analysis in R
+* Data wrangling with `dplyr` and `tidyr`
+* Data visualization with `ggplot2`
+* Statistical analysis in R
+* Working with real-world datasets
+* Exploratory data analysis (EDA)
+* R Markdown for reports
 
-Working with real-world datasets
+## 📁 **Repository Structure**
 
-Exploratory data analysis (EDA)
+```
+📂 data/             # Sample datasets
+📂 scripts/          # R scripts for analysis
+📂 visuals/          # Plots and visualizations
+📄 README.md         # This file
+```
 
-R Markdown for reports
+## 🚀 **Goals**
 
-Build a strong foundation in data analytics
+* Build a strong foundation in data analytics
+* Share clean and reproducible code
+* Work on real-world projects soon
 
-Share clean and reproducible code
+## 📌 **Tools**
 
-Work on real-world projects soon
+* R & RStudio
+* Tidyverse (ggplot2, dplyr, tidyr, readr)
+* R Markdown
 
-#📌 Tools
-R & RStudio
+## 📬 **Contact**
 
-Tidyverse (ggplot2, dplyr, tidyr, readr)
-
-R Markdown
-
-#📬 Contact
 Feel free to connect or collaborate!
 
-LinkedIn: [Your LinkedIn]
+* Email: \[byteglitchlabs@gmail.com]
 
-Email: [Your Email]
